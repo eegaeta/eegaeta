@@ -1,4 +1,5 @@
-![Texto alternativo](Downloads/vibecoder.gif)
+<img width="500" height="280" alt="vibecoder gif" src="https://github.com/user-attachments/assets/9ed0babf-0688-47b1-8a73-8015a3102680" />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eegaeta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enzogaeta30@gmail.com) 
