@@ -1,4 +1,4 @@
-<img width="500" height="280" alt="vibecoder gif" src="https://github.com/user-attachments/assets/9ed0babf-0688-47b1-8a73-8015a3102680" />
+<img width="800" height="280" alt="vibecoder gif" src="https://github.com/user-attachments/assets/9ed0babf-0688-47b1-8a73-8015a3102680" />
 
 
 ## 🌐 Socials:
